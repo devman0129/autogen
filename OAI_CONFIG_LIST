@@ -1,0 +1,13 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "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"
+    },
+    {
+        "model": "AGIJesseDevelopement",
+        "api_key": "159b39e840c14ff0811ffe5e31f790dd",
+        "api_base": "https://agijesse-test.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    }
+]
